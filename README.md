@@ -1,4 +1,4 @@
-![logo](https://github.com/protim19/protim19/blob/main/technology-network-background-concept-global-network-big-data-cybersecurity-transfer-storage-data-sets-blockchain-abstract-connected-dots-lines-network-background-3d-illustration_34629-1190.avif)
+![logo](https://github.com/protim19/protim19/blob/main/data-science-banner.jpg)
 <h1 align="center">Hi 👋, I'm Protim Mondal</h1>
 <h3 align="center">A Data Scientist Aspirant from India</h3>
 
