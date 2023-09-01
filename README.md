@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **protim.mondal419@gmail.com**
 
-- ⚡ Fun fact **I am funny**
+- ⚡ Fun fact **I love football**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
